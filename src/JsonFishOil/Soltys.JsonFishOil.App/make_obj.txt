@@ -1,0 +1,1 @@
+{ mySuperName: .data.people[2].name, age: 42, constValue: "zsbit", subObj: { secret: 420 } }

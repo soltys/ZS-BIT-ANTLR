@@ -1,0 +1,13 @@
+<Project>
+    <PropertyGroup>
+		<Antlr4UseCSharpGenerator>True</Antlr4UseCSharpGenerator>		
+    </PropertyGroup>
+	
+	<ItemGroup>
+        <PackageReference Include="Antlr4.Runtime" Version="4.6.6" />
+        <PackageReference Include="Antlr4.CodeGenerator" Version="4.6.6">
+            <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+            <PrivateAssets>All</PrivateAssets>
+        </PackageReference>
+    </ItemGroup>
+</Project>
