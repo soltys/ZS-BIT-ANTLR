@@ -1,7 +1,0 @@
-<Project>
-    <PropertyGroup>
-        <ProjectCategory>JsonFishOil</ProjectCategory>
-    </PropertyGroup>
-    <Import Project="$([MSBuild]::GetPathOfFileAbove('Directory.Build.props', '$(MSBuildThisFileDirectory)../'))" />
-    <Import Project="$([MSBuild]::GetPathOfFileAbove('ANTLR.props', '$(MSBuildThisFileDirectory)../'))" />
-</Project>

@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soltys.JsonFishOil", "src\JsonFishOil\Soltys.JsonFishOil\Soltys.JsonFishOil.csproj", "{1EA9A62B-8767-4242-80F0-2B0FCCC631C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soltys.JsonFishOil", "src\Soltys.JsonFishOil\Soltys.JsonFishOil.csproj", "{1EA9A62B-8767-4242-80F0-2B0FCCC631C3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soltys.JsonFishOil.App", "src\JsonFishOil\Soltys.JsonFishOil.App\Soltys.JsonFishOil.App.csproj", "{A4697521-6722-4C4A-8BA8-558102B3B844}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soltys.JsonFishOil.App", "src\Soltys.JsonFishOil.App\Soltys.JsonFishOil.App.csproj", "{A4697521-6722-4C4A-8BA8-558102B3B844}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soltys.JsonFishOil.Test", "src\JsonFishOil\Soltys.JsonFishOil.Test\Soltys.JsonFishOil.Test.csproj", "{543721C5-D3E8-42C3-B25B-19D8CAF20FDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soltys.JsonFishOil.Test", "src\Soltys.JsonFishOil.Test\Soltys.JsonFishOil.Test.csproj", "{543721C5-D3E8-42C3-B25B-19D8CAF20FDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
