@@ -10,3 +10,4 @@ Linki:
 * [Dużo linków](https://tomassetti.me/resources-create-programming-languages/)
 * [Why DSLs? A Collection of Anecdotes](https://www.infoq.com/articles/why-dsl-collection-anecdotes/)
 * [Has a DSL ever solved your problems?](https://www.reddit.com/r/ExperiencedDevs/comments/dwc1fm/has_a_dsl_ever_solved_your_problems/)
+* [DSLs for non-programmers are a hoax](https://artur-martsinkovskyi.github.io//2019/dsls-are-hoax/)
