@@ -29,11 +29,11 @@ public class JsonFishOilVisitor : JsonFishOilBaseVisitor<JsonFunc>
     {
         if (context.NUMBER() != null)
         {
-            return new ConstValueFunc { Value = context.NUMBER().GetText() };
+            return new ConstValueFunc(context.NUMBER().GetText());
         }
         else if (context.STRING() != null)
         {
-            return new ConstValueFunc { Value = context.STRING().GetText() };
+            return new ConstValueFunc(context.STRING().GetText());
         }
         return VisitChildren(context);        
     }

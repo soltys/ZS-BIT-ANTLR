@@ -2,6 +2,11 @@
 
 public class ConstValueFunc : JsonFunc
 {
+    public ConstValueFunc(string value)
+    {
+        Value = value;
+    }
+
     public string Value
     {
         get; set;
